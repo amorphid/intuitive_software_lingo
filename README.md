@@ -3,20 +3,29 @@
 **automated test**
 * a test that runs without human control
 
+**big endian**
+* endianness from the most to least significant bytes
+
 **correctness**
 * conforms to a specification
 
 **deterministic**
 * it does the same thing every time
 
+**endianness**
+* the bytes in a number
+
 **integration test**
 * an automated test of 2+ units
+
+**little endian**
+* endianness from the least to most significant bytes
 
 **specification**
 * a description of an implementation
 
 **test**
-* a deterministic assertion of correctness
+* code that tests other code
 
 **unit**
 * the smallest testable part of an application
