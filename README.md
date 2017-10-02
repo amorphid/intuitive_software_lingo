@@ -53,6 +53,7 @@
 
 **SOLID (object-oriented design)**
 * a mnemonic acronym for five design principles intended to make software designs more understandable, flexible and maintainable. (http://butunclebob.com/ArticleS.UncleBob.PrinciplesOfOod)
+
 | key | val |
 | --- | --- |
 | **S	Single responsibility principle** | A class should have only a single responsibility (i.e. changes to only one part of the software's specification should be able to affect the specification of the class |
